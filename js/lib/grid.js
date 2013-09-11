@@ -8,9 +8,9 @@
 			return allCN
 		}
 	}
+
 	var rowList = document.getElementsByClassName('row'), rowArray = [], i;
 	for(i = 0; i < rowList.length; i++) if(!(/^col[01][0123456789]/.test(rowList[i].className))) rowArray.push(rowList[i]);
-	delete rowList;
 
 	function rowHeight() {
 		var i;
@@ -19,9 +19,11 @@
 			rowArray[i].style.height = rowArray[i].offsetHeight + 'px';
 		}
 	}
+
 	if (window.addEventListener)
 		window.addEventListener("resize", rowHeight, false);
 	else if (window.attachEvent)
 		window.attachEvent("onresize", rowHeight);
+
 	rowHeight();
 }());

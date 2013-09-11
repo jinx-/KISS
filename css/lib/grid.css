@@ -1,10 +1,14 @@
 /*/COLUMN PROPERTIES/*/
-.col01, .col02, .col03,.col04, .col05, .col06, .col07, .col08, .col09, .col10, .col11, .col12 {
+.row > [class*='col'] {
 	height: 100%;
 	padding: 10px;
 	position: relative;
 	vertical-align: top;
 	display: inline-block;
+}
+
+.row.vertical > [class*='col'] {
+	height: auto;
 }
 
 .col01 {
@@ -121,7 +125,7 @@
 }
 
 /*/ROW PROPERTIES/*/
-.row {
+.row, .row .row {
 	padding: 0;
 	position: relative;
 }
