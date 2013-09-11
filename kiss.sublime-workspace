@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"row",
+				"rowList"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"border-right-",
+				"border-right-width"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"border",
+				"border-left-width"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"border-right",
+				"border-right-width"
+			],
+			[
+				"col",
+				"col06"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jinx/Documents/Projekti/KISS/index.html",
+		"/C/Users/Jinx/Documents/Projekti/KISS/js/lib/grid.js",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/style/default/index.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/lib/grid.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/README.md",
+		"/C/Users/Jinx/Dropbox/KISS Test/js/grid.js",
+		"/C/Users/Jinx/AppData/Local/Temp/Temp1_html5shiv-master.zip/html5shiv-master/dist/html5shiv-printshiv.js",
+		"/C/Users/Jinx/Documents/Projekti/KISS/js/lib/html5shiv.js",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/index.css",
+		"/C/Users/Jinx/AppData/Local/Temp/Temp1_aFarkas-html5shiv-3.6.2-24-g782276b.zip/aFarkas-html5shiv-782276b/dist/html5shiv-printshiv.js",
+		"/C/Users/Jinx/AppData/Local/Temp/Temp1_aFarkas-html5shiv-3.6.2-24-g782276b.zip/aFarkas-html5shiv-782276b/dist/html5shiv.js",
+		"/C/Users/Jinx/Documents/Projekti/KISS/js/lib/shiv.js",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/lib/reset.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/lib/typo.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/reset.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/typo.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/css/grid.css",
+		"/C/Users/Jinx/Documents/Projekti/KISS/js/index.js",
+		"/C/Users/Jinx/Documents/Projekti/KISS/js/grid.js",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/js/grid.js",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/css/grid.css",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/index.html",
+		"/C/Users/Jinx/Desktop/tinynav.min.js",
+		"/C/Users/Jinx/Desktop/untitled/css/template.css",
+		"/C/Users/Jinx/Desktop/untitled/index.php",
+		"/C/Users/Jinx/Desktop/untitled/html/mod_menu/default.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/j51_evolution/css/nexus.css",
+		"/C/Users/Jinx/Desktop/pjZagreb.html",
+		"/C/Users/Jinx/Desktop/pj.Varazdin.html",
+		"/C/Users/Jinx/Desktop/pjSplit.html",
+		"/C/Users/Jinx/Desktop/pjRijeka.html",
+		"/C/Users/Jinx/Desktop/psosijek.html",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/j51_evolution/index.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/j51_evolution/css/template.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/j51_evolution/html/com_content/article/default.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/components/com_contact/contact.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/protostar/index.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/components/com_contact/views/contact/view.html.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/components/com_contact/views/contact/tmpl/default.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/beez3/index.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/j51_evolution/css/jstuff.css",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/css/index.css",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/css/typo.css",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/css/reset.css",
+		"/C/Users/Jinx/Dropbox/KISS Test/css/index.css",
+		"/C/Users/Jinx/Dropbox/KISS Test/css/grid.css",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/css/grid.less",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/js/less.js",
+		"/C/Users/Jinx/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Jinx/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Jinx/Documents/Projekti/KISSGrid/css/colour.css",
+		"/C/Users/Jinx/.ssh/id_rsa.pub",
+		"/C/Users/Jinx/Desktop/KISS/README.txt",
+		"/C/Users/Jinx/Desktop/KISS/index.html",
+		"/C/Users/Jinx/Desktop/KISS/js/index.js",
+		"/C/Users/Jinx/Desktop/KISS/css/grid.css",
+		"/C/Users/Jinx/Desktop/KISS/css/typography.css",
+		"/C/Users/Jinx/Desktop/KISS/css/reset.css",
+		"/C/Users/Jinx/Desktop/KISS/css/index.css",
+		"/C/Users/Jinx/Desktop/KISS/css/colour.css",
+		"/C/Users/Jinx/Desktop/configuration.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/templates/j51_evolution/css/typo.css",
+		"/C/Users/Jinx/Desktop/HUMAS-RatniPlan",
+		"/C/Users/Jinx/Desktop/italy/js/scrollto.js",
+		"/C/Users/Jinx/Desktop/italy/js/maps.js",
+		"/C/Users/Jinx/Desktop/italy/js/jquery-1.10.2.min.js",
+		"/C/Users/Jinx/Desktop/italy/js/cform.js",
+		"/C/Users/Jinx/Desktop/italy/css/typography.css",
+		"/C/Users/Jinx/Desktop/italy/css/reset.css",
+		"/C/Users/Jinx/Desktop/italy/css/lightbox.css",
+		"/C/Users/Jinx/Desktop/italy/css/index.css",
+		"/C/Users/Jinx/Desktop/italy/index.html",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/configuration.php",
+		"/C/Users/Jinx/Desktop/arithera/PLAN!",
+		"/C/Users/Jinx/Desktop/arithera/css/index.css",
+		"/C/Users/Jinx/Desktop/arithera/js/scrollto.js",
+		"/C/Users/Jinx/Desktop/arithera/index.html",
+		"/C/Users/Jinx/Desktop/arithera/js/maps.js",
+		"/C/Users/Jinx/Desktop/Arithera/PLAN!",
+		"/C/Users/Jinx/Desktop/Arithera/css/index.css",
+		"/C/Users/Jinx/Desktop/Arithera/karta-test.html",
+		"/C/Users/Jinx/Desktop/Arithera/css/typography.css",
+		"/C/Users/Jinx/Desktop/Arithera/index.html",
+		"/C/Users/Jinx/Desktop/Arithera/js/maps.js",
+		"/C/Users/Jinx/Desktop/Arithera/css/reset.css",
+		"/C/Users/Jinx/Desktop/Arithera/index.xhtml",
+		"/C/Users/Jinx/Desktop/FERObrasci/zaUplatu",
+		"/C/Users/Jinx/Desktop/KISS Test/css/grid.css",
+		"/C/Users/Jinx/AppData/Local/Temp/Temp1_Goth-Bol.zip/fonts.css",
+		"/C/Users/Jinx/AppData/Local/Temp/Temp1_Goth-Boo.zip/fonts.css",
+		"/C/Users/Jinx/Downloads/html5reset-1.6.1.css",
+		"/C/Users/Jinx/Desktop/KISS Test/index.html",
+		"/C/Users/Jinx/Desktop/KISS Test/js/grid.js",
+		"/C/Users/Jinx/Desktop/KISS Test/css/index.css",
+		"/C/Users/Jinx/Desktop/KISS Test/css/grid.min.css",
+		"/C/Users/Jinx/AppData/Local/Temp/Temp1_nathansmith-960-Grid-System-231ee0c.zip/nathansmith-960-Grid-System-231ee0c/code/css/960_12_col.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/humas/configuration.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/templates/medica/css/layout.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/templates/medica/css/custom.css",
+		"/C/Users/Jinx/Desktop/dalmatinac.txt",
+		"/C/Users/Jinx/Desktop/humas.sql",
+		"/C/Users/Jinx/Downloads/dalmatinac.sql",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/templates/medica/css/modules.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/modules/mod_sfacebooklikebox/mod_sfacebooklikebox.php",
+		"/C/Users/Jinx/Desktop/template.css",
+		"/C/Users/Jinx/Desktop/template.responsive.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/media/widgetkit/widgets/gallery/styles/default/template.php",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/templates/medica/css/base.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/templates/medica/css/system.css",
+		"/C/BitNami/wampstack-5.4.19-0/apache2/htdocs/dalmatinac/templates/medica/css/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left: ",
+			"push",
+			"width",
+			"col",
+			"Top",
+			"strong",
+			"letter-spacing",
+			"<h3>b",
+			"top",
+			"Top A",
+			"push",
+			"left:",
+			"width",
+			"col",
+			" type=\"text/css\"",
+			"public_html/",
+			"line-height:150%",
+			"text-shadow",
+			"line-hei",
+			"line",
+			"inset",
+			"section10",
+			"LIGHTBOX",
+			"h3",
+			"<br>",
+			"karta1",
+			"[goo",
+			"[Goo",
+			"visita",
+			"'fonts/Goth-Bol",
+			"'fonts/Goth-Boo",
+			"style=\"width: 100%; background-image: none; background-position: 0% 0%; background-repeat: repeat repeat;\"",
+			"pullh",
+			"margin-left: ",
+			"pus",
+			"width",
+			"col",
+			"col3",
+			"</span>",
+			"<span style=\"line-height: 1.3em;\">",
+			"#menu",
+			"407087",
+			"style-blank"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"left:-",
+			"pull",
+			"left",
+			"push",
+			"Bottom",
+			"em",
+			"<h3>B",
+			"bottom",
+			"Top C",
+			"Top B",
+			"pull",
+			"left:-",
+			"left",
+			"push",
+			"",
+			"public_html/stara/",
+			"<br />",
+			"'../fonts/Gotham-Bold",
+			"'../fonts/Gotham-Book",
+			"",
+			"pull",
+			"margin-left: -",
+			"pull",
+			"margin-left",
+			"push",
+			"col03",
+			"",
+			"7EB7FF"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "kiss.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
