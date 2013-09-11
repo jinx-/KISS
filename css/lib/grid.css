@@ -1,0 +1,135 @@
+/*/COLUMN PROPERTIES/*/
+.col01, .col02, .col03,.col04, .col05, .col06, .col07, .col08, .col09, .col10, .col11, .col12 {
+	height: 100%;
+	padding: 10px;
+	position: relative;
+	vertical-align: top;
+	display: inline-block;
+}
+
+.col01 {
+	width: 8.333%;
+}
+.col02 {
+	width: 16.666%;
+}
+.col03 {
+	width: 25%;
+}
+.col04 {
+	width: 33.333%;
+}
+.col05 {
+	width: 41.666%;
+}
+.col06 {
+	width: 50%;
+}
+.col07 {
+	width: 58.333%;
+}
+.col08 {
+	width: 66.666%;
+}
+.col09 {
+	width: 75%;
+}
+.col10 {
+	width: 83.333%;
+}
+.col11 {
+	width: 91.666%;
+}
+.col12 {
+	width: 100%;
+}
+
+/*/PUSH PROPERTIES/*/
+.push01 {
+	left: 8.333%;
+}
+.push02 {
+	left: 16.666%;
+}
+.push03 {
+	left: 25%;
+}
+.push04 {
+	left: 33.333%;
+}
+.push05 {
+	left: 41.666%;
+}
+.push06 {
+	left: 50%;
+}
+.push07 {
+	left: 58.333%;
+}
+.push08 {
+	left: 66.666%;
+}
+.push09 {
+	left: 75%;
+}
+.push10 {
+	left: 83.333%;
+}
+.push11 {
+	left: 91.666%;
+}
+.push12 {
+	left: 100%;
+}
+
+/*/PULL PROPERTIES/*/
+.pull01 {
+	left:-8.333%;
+}
+.pull02 {
+	left:-16.666%;
+}
+.pull03 {
+	left:-25%;
+}
+.pull04 {
+	left:-33.333%;
+}
+.pull05 {
+	left:-41.666%;
+}
+.pull06 {
+	left:-50%;
+}
+.pull07 {
+	left:-58.333%;
+}
+.pull08 {
+	left:-66.666%;
+}
+.pull09 {
+	left:-75%;
+}
+.pull10 {
+	left:-83.333%;
+}
+.pull11 {
+	left:-91.666%;
+}
+.pull12 {
+	left:-100%;
+}
+
+/*/ROW PROPERTIES/*/
+.row {
+	padding: 0;
+	position: relative;
+}
+
+.row.reverse {
+	direction: rtl;
+}
+
+.row.reverse > * {
+	direction: ltr;
+}

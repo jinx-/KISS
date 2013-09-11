@@ -1,0 +1,39 @@
+body {
+	color: #333;
+	background: #f5f5f5;
+}
+
+#page {
+	border-radius: 3px;
+	background: #fff;
+	box-shadow: 3px 3px 0 0 rgba(0,0,0,.15);
+}
+
+/*/MAIN LOGO/*/
+#mainLogo h1 {
+	margin: 0;
+}
+
+/*/MAIN MENU/*/
+#mainMenu a {
+	color:#333;
+}
+
+#mainMenu > li {
+	
+}
+
+#mainMenu > li > a {
+	padding: 5px;
+	font-weight: bold;
+	border-bottom: 3px solid transparent;
+}
+
+#mainMenu a:hover {
+	background: #FFFFB8;
+	border-bottom-color: #ccc;
+}
+
+aside [class*='col'], #mainContent {
+	height: auto;
+}
